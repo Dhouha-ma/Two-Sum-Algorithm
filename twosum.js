@@ -1,6 +1,3 @@
-/* Two Sum */
-/* Return an array filled with every pair of numbers from the array that adds up to the sum */ 
-
 function pairs (arr, sum){
   
   var pairsarr = [];
