@@ -1,4 +1,4 @@
-function pairs (arr, sum){
+function twosum (arr, sum){
   
   var pairsarr = [];
   var hashtable = [];
@@ -14,6 +14,6 @@ function pairs (arr, sum){
   console.log(pairsarr);
 }
 
-pairs ([1,2,4,6,4,7],8);
+twosum ([1,2,4,6,4,7],8);
 
 
